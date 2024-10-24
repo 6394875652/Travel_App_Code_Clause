@@ -10,7 +10,6 @@ Responsive Travel Website Using React.js And Tailwind CSS - [Website Link](https
 - ReactJs
 - Tailwind (CSS Framework)
 - React Icons (Package Manager)
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
 ## Use of Project
 
