@@ -15,6 +15,6 @@ Responsive Travel Website Using React.js And Tailwind CSS - [Website Link](https
 
 To simply be comfortable with React and Tailwind :)
 
-## Screenshot
+
 
 
